@@ -31,14 +31,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
-## 📫 How to Reach Me
-
-- **Email**: [sanuka@example.com](mailto:sanuka@example.com)
-- **LinkedIn**: [Sanuka LinkedIn](https://linkedin.com/in/sanuka)
-- **Twitter**: [@SanukaDev](https://twitter.com/SanukaDev)
-
----
-
 ## 😄 Pronouns
 
 He/Him
