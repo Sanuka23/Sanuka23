@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 🌐 **Web Development**
 - 📱 **Mobile App Development**
 - 🤖 **Artificial Intelligence & Machine Learning**
-- 🔒 **Cybersecurity**
 
 ---
 
