@@ -21,15 +21,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - Exploring **Cloud Computing** (AWS, GCP)
 - **Deep Learning** and **Natural Language Processing (NLP)**
 
----
-
-## 💞️ Looking to Collaborate On
-
-- Open source projects 🎯
-- Web or mobile apps with cool UI/UX designs ✨
-- Machine Learning and AI-based projects 🤖
-
----
 
 ## 😄 Pronouns
 
