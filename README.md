@@ -1,6 +1,6 @@
 # Hey there, I'm [Sanuka23](https://github.com/Sanuka23) 👋
 
-![Profile Banner]([https://your-image-url.com/banner.png](https://avatars.githubusercontent.com/u/158992222?s=400&u=2d246f85b4f30e528b24856c9220d2d9c54c1d05&v=4))
+![Profile Banner](https://avatars.githubusercontent.com/u/158992222?s=400&u=2d246f85b4f30e528b24856c9220d2d9c54c1d05&v=4)
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and collaborating on exciting projects. Here's a bit more about me:
 
