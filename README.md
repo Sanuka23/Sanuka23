@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-javascript
+```javascript
 const sanuka = {
   pronouns: "he/him",
   code: ["JavaScript", "Python", "Java", "C++"],
@@ -20,7 +20,7 @@ const sanuka = {
   currentFocus: "Building Next.js applications with AI features",
   funFact: "Built a voice-controlled game in 48 hours!"
 };
-
+```
 
 ---
 
@@ -80,18 +80,7 @@ const sanuka = {
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yourprofile/)
-  [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/yourhandle)
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:youremail@gmail.com)
-</div>
-
----
-
-<div align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Sanuka23&color=blueviolet&style=flat-square)
-  
   ![Snake animation](https://github.com/Sanuka23/Sanuka23/blob/output/github-contribution-grid-snake.svg)
 </div>
+```
