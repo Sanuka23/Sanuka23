@@ -27,27 +27,24 @@ const sanuka = {
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 🌐 Frontend
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Flutter](https://skillicons.dev/icons?i=flutter)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" height="40"/>
 
 ### ⚙️ Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express.js](https://skillicons.dev/icons?i=express)
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
 
 ### 🗃️ Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
 
 ### ☁️ Cloud & DevOps
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
+<img src="https://skillicons.dev/icons?i=aws,docker" height="40"/>
 
 ### 🤖 AI/ML
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="40"/>
+
+</div>
 
 ---
 
@@ -58,17 +55,6 @@ const sanuka = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanuka23&layout=compact&langs_count=8&theme=radical"/>
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Sanuka23&theme=radical)
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanuka23&theme=react-dark&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-  [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Sanuka23&repo=project1&theme=radical)](https://github.com/Sanuka23/project1)
-  [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Sanuka23&repo=project2&theme=radical)](https://github.com/Sanuka23/project2)
 </div>
 
 ---
@@ -85,6 +71,4 @@ const sanuka = {
 
 <div align="center">
   ![Visitor Count](https://komarev.com/ghpvc/?username=Sanuka23&color=blueviolet&style=flat-square)
-  
-  ![Snake animation](https://github.com/Sanuka23/Sanuka23/blob/output/github-contribution-grid-snake.svg)
 </div>
