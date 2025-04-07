@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-```javascript
+javascript
 const sanuka = {
   pronouns: "he/him",
   code: ["JavaScript", "Python", "Java", "C++"],
@@ -20,7 +20,7 @@ const sanuka = {
   currentFocus: "Building Next.js applications with AI features",
   funFact: "Built a voice-controlled game in 48 hours!"
 };
-```
+
 
 ---
 
