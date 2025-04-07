@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">💫 Hello World, I'm Sanuka23!</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" style="width: 80%; display: block; margin: auto;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" style="width: 80%; display: block; margin: auto;" />
 </div>
 
 
