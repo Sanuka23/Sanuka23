@@ -6,8 +6,9 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Sanuka</h1>
-<h3 align="center">A passionate Full Stack Developer and Flutter Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Tech+Explorer;Flutter+Developer" alt="Typing SVG" />
+</div>
 
 ---
 
