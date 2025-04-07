@@ -2,7 +2,7 @@
 # 💫 Hello World, I'm Sanuka23!
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/44ac7a00-2fbb-4c26-a4d5-918b6315dc3e" width="100%"/>
+  <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/44ac7a00-2fbb-4c26-a4d5-918b6315dc3e](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sanuka</h1>
@@ -59,8 +59,3 @@ const sanuka = {
 - 🎨 Three.js for 3D Web Experiences
 - 📱 Flutter for Cross-Platform Mobile Development
 
----
-
-<div align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Sanuka23&color=blueviolet&style=flat-square)
-</div>
