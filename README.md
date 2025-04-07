@@ -2,12 +2,11 @@
 # 💫 Hello World, I'm Sanuka23!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/44ac7a00-2fbb-4c26-a4d5-918b6315dc3e" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Tech+Explorer;Flutter+Developer" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi 👋, I'm Sanuka</h1>
+<h3 align="center">A passionate Full Stack Developer and Flutter Enthusiast</h3>
 
 ---
 
@@ -17,33 +16,26 @@
 const sanuka = {
   pronouns: "he/him",
   code: ["JavaScript", "Python", "Java", "C++", "Dart"],
-  passions: ["Web Development", "AI/ML", "Cloud Computing", "Mobile App Development"],
-  currentFocus: "Building Next.js applications with AI features and Flutter apps",
-  funFact: "Built a voice-controlled game in 48 hours!"
+  passions: ["Web Development", "AI/ML", "Mobile Apps", "Cloud Computing"],
+  currentFocus: "Building Next.js and Flutter apps with AI integration",
+  funFact: "I once built a voice-controlled game in under 48 hours!"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Animated)
 
 <div align="center">
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" height="40"/>
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
-
-### 🗃️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker" height="40"/>
-
-### 🤖 AI/ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="40"/>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
 </div>
 
 ---
