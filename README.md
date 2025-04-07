@@ -2,7 +2,7 @@
 # 💫 Hello World, I'm Sanuka23!
 
 <div align="center">
-  <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/44ac7a00-2fbb-4c26-a4d5-918b6315dc3e](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sanuka</h1>
