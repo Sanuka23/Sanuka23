@@ -26,7 +26,7 @@ const sanuka = {
 
 ---
 
-## 🛠️ Tech Stack (Animated)
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
@@ -42,7 +42,7 @@ const sanuka = {
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanuka23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
